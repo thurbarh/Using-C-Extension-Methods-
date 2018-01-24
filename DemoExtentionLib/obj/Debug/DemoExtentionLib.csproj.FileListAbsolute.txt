@@ -1,0 +1,5 @@
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLib\bin\Debug\DemoExtentionLib.dll
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLib\bin\Debug\DemoExtentionLib.pdb
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLib\obj\Debug\DemoExtentionLib.csprojResolveAssemblyReference.cache
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLib\obj\Debug\DemoExtentionLib.dll
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLib\obj\Debug\DemoExtentionLib.pdb

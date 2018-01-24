@@ -1,0 +1,14 @@
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\bin\Debug\DemoExtentionLibTest.dll
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\bin\Debug\DemoExtentionLibTest.pdb
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\bin\Debug\DemoExtentionLib.dll
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\bin\Debug\DemoExtentionLib.pdb
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\obj\Debug\DemoExtentionLibTest.csprojResolveAssemblyReference.cache
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\obj\Debug\DemoExtentionLibTest.dll
+C:\Solutions\Blog\DemoExtentionLib\DemoExtentionLibTest\obj\Debug\DemoExtentionLibTest.pdb
